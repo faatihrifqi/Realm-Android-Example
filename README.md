@@ -1,3 +1,3 @@
 # Realm-Android-Example
 
-I think this is good implementation to use Realm in Android Development
+I think it's proper way to use Realm in Android Development
